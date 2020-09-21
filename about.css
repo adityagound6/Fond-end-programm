@@ -1,0 +1,13 @@
+.sect1 div {
+	background-color: #5f9ea0;
+	width: 380px;
+	height: 480px;
+	border-radius:10px;
+	margin: 10px;
+	padding: 20px;
+}
+img{
+	height: 250px;
+	width: 340px;
+	border: 10px;
+}
